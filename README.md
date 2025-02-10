@@ -8,4 +8,4 @@ Aplicação que explora as animações e transições no CSS, utilizando um proj
 
 -Trilha FullStack - Rocketseat.
 
-Project: 
+Project: https://a1n2f.github.io/patins-animation/
